@@ -1,6 +1,6 @@
 # SHOPIFY-CODES
 | MY COLLECTION OF CUSTOM SHOPIFY LIQUID CODES FOR ECOMMERCE STOREFRONTS || 
- ✄ JENNIFER AUN ♡
+  ✄ JENNIFER AUN ♡
 
 ✄--------------------------------------------------
 
